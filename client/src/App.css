@@ -82,8 +82,10 @@ button {
   background-color: #555;
 }
 
-/* .result {
-} */
+.result {
+  position: relative;
+  flex-direction: column;
+}
 
 h4 {
   font-family: Arial, Helvetica, sans-serif;
